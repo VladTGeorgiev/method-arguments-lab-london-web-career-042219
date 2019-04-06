@@ -1,3 +1,2 @@
-def introduction(name)
-  puts "Hello ${name}"
+def introduction
 end
